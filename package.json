@@ -39,7 +39,7 @@
     "node-rsa": "^0.4.2",
     "uuid": "^3.3.2",
     "xml": "^1.0.0",
-    "xml-crypto": "^1.1.4",
+    "xml-crypto": "git://github.com/fvelosa/xml-crypto.git#f1e6247f2dd1f48bdc97d90092d25628ffc1db90",
     "xmldom": "^0.1.19",
     "xpath": "^0.0.27"
   },
